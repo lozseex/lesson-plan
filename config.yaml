@@ -14,10 +14,10 @@ carpentry: 'incubator'
 title: 'Sewing plan' # FIXME
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: ~ # FIXME
+created:  13-6-24 # FIXME
 
 # Comma-separated list of keywords for the lesson
-keywords: 'software, data, lesson, The Carpentries' # FIXME
+keywords: 'Sewing, guide, step-by-step, motivation' # FIXME
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
@@ -33,7 +33,7 @@ source: 'https://github.com/carpentries/workbench-template-md' # FIXME
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org' # FIXME
+contact: 'l.seex@rug.nl' # FIXME
 
 # Navigation ------------------------------------------------
 #
@@ -63,6 +63,7 @@ episodes:
 
 # Information for Learners
 learners: 
+
 
 # Information for Instructors
 instructors: 
